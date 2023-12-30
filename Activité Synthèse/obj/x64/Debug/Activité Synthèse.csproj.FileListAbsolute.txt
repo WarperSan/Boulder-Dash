@@ -49,3 +49,54 @@ C:\Users\Phillipe\source\repos\Activité Synthèse\Activité Synthèse\bin\x64\D
 C:\Users\Phillipe\source\repos\Activité Synthèse\Activité Synthèse\bin\x64\Debug\sfmlnet-graphics-2.dll
 C:\Users\Phillipe\source\repos\Activité Synthèse\Activité Synthèse\bin\x64\Debug\sfmlnet-system-2.dll
 C:\Users\Phillipe\source\repos\Activité Synthèse\Activité Synthèse\bin\x64\Debug\sfmlnet-window-2.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\csfml-audio-2.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\csfml-graphics-2.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\csfml-system-2.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\csfml-window-2.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\diamant24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\Fygar\fygar-droite24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\Fygar\fygar-gauche24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\Fygar\stage2-droite-fire24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\Fygar\stage2-gauche-fire24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\Fygar\stage3-droite-fire24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\Fygar\stage3-gauche-fire24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\gagne24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\Ghastly\ghastly-droite24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\Ghastly\ghastly-gauche24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\heros24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\mur24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\papillon24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\perdu24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\roche24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\Fygar\stage1-droite-fire24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\Fygar\stage1-gauche-fire24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\terre24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\title_screen.png
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\vide24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Images\videIcon24.bmp
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\libsndfile-1.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\openal32.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\OpenTK.Compatibility.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\OpenTK.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Sounds\Boulder Dash Extra.wav
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Sounds\Boulder Winning.wav
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Sounds\buttonClick.wav
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Sounds\letterHit.wav
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Sounds\rockFell.wav
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Sounds\Boulder Theme.wav
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Sounds\death.wav
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Sounds\diamant.wav
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Sounds\Boulder Dash.wav
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\zig.ttf
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Activité Synthèse.exe.config
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Activité Synthèse.exe
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\Activité Synthèse.pdb
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\sfmlnet-audio-2.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\sfmlnet-graphics-2.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\sfmlnet-system-2.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\bin\x64\Debug\sfmlnet-window-2.dll
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\obj\x64\Debug\Activité Synthèse.csproj.AssemblyReference.cache
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\obj\x64\Debug\Activité Synthèse.csproj.CoreCompileInputs.cache
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\obj\x64\Debug\Activité Synthèse.csproj.CopyComplete
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\obj\x64\Debug\Activité Synthèse.exe
+C:\Users\Phillipe\OneDrive - Collège Lionel-Groulx\Desktop\KB1\Activité Synthèse\Activité Synthèse\obj\x64\Debug\Activité Synthèse.pdb
