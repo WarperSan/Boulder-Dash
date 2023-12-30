@@ -1,0 +1,1 @@
+J'ai été gentil (ou pas) et j'ai fait des cartes pour tester le jeu à son potentiel.
